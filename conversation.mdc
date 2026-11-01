@@ -1,0 +1,14 @@
+# b3Ɛq ALOS™ — Conversation and Decision History
+
+## 2026-11-01 — Dedicated repository bootstrap
+
+- User requested an independent b3Ɛq-named repository for ALOS as part of the wider repository separation and governance programme.
+- Canonical name: **b3Ɛq ALOS™ — Advanced Logistics Operating System**.
+- Repository slug: `Devf7en/b3-q-ALOS`.
+- User created the repository; GitHub search verified the repository exists under Devf7en with default branch `main`.
+- GitHub metadata currently reports the repository as **public**. The creation instruction had specified private. Visibility should be reviewed by the owner; no visibility change has been made.
+- Recovered the earlier authoritative ALOS charter from `b3Ɛq Core/docs/portfolio/initiatives/alos.md`, including Portfolio ID B3EQ-PORT-0013, purpose, boundaries, candidate capabilities, EBMA system relationships and phased roadmap.
+- Preserved the charter's key boundary: ALOS owns logistics-specific network coordination, operational experience and governed autonomy; ComOS owns commerce/customer context; Core SCM/TMS/WMS remain specialized execution authorities in integrated deployments.
+- Added README, system context, domain vocabulary, source-of-truth and integration register, EBMA adoption profile, security requirements, roadmap, ideation, version and changelog.
+- Documentation baseline is committed. No runtime, schema migrations, APIs, integrations, tests, CI or deployment has been implemented or verified.
+- Next: complete P0 domain ontology and reconcile actual Core SCM/TMS/WMS contracts before implementation.
