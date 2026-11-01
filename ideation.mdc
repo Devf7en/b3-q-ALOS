@@ -1,0 +1,39 @@
+# b3Ɛq ALOS™ — Ideation and Design Notes
+
+## Foundational intent
+
+Build a logistics operating system that sees and coordinates the complete logistics network, not merely one transport leg, warehouse or carrier. ALOS should combine visibility, planning, simulation, exception management and governed autonomy across multi-party, multi-echelon operations.
+
+## Core design principles
+
+- Network-wide visibility with source provenance.
+- One authoritative owner per transaction and master entity.
+- Coordination across Core SCM/TMS/WMS and ComOS without duplication.
+- Event-driven integration with explicit schema and replay semantics.
+- Predictive intelligence that exposes uncertainty and rationale.
+- Recommendations separated from authorized actions.
+- Human oversight for high-impact logistics decisions.
+- Self-hostable, modular and independently deployable architecture.
+
+## Candidate intelligence capabilities
+
+- Estimated time of arrival and confidence intervals.
+- Disruption and delay risk prediction.
+- Capacity and route optimization.
+- Shipment consolidation and load utilization.
+- Service-level prediction and exception prioritization.
+- Scenario simulation and recovery recommendations.
+- Network bottleneck and partner performance analysis.
+
+## Open questions
+
+- Which transport and warehouse interfaces are currently authoritative in Core?
+- Which event transport and schema registry will be standardized?
+- Which geospatial and routing providers are acceptable for self-hosted and commercial deployments?
+- What are the first target logistics verticals and operating scale?
+- Which actions require approval versus policy-authorized autonomy?
+- Which jurisdictional data residency and location-data retention constraints apply?
+
+## Guardrail
+
+Do not implement duplicate TMS, SCM, WMS or ledger functions. Resolve ownership and contract boundaries before coding execution features.
