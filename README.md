@@ -1,4 +1,4 @@
-# b3Ɛq ALOS™ — Advanced Logistics Operating System
+# b3Ɛq::ALOS™ — Advanced Logistics Operating System
 
 **Repository:** `Devf7en/b3-q-ALOS`  
 **Portfolio ID:** `B3EQ-PORT-0013`  
@@ -37,7 +37,7 @@ It provides a logistics-specific operational experience and coordination layer a
 | Supply-chain planning and execution services | b3Ɛq Core SCM today; future SCM Ultimate™ when separately implemented and migrated |
 | Transportation execution services | b3Ɛq Core TMS today; future TMS Ultimate™ when separately implemented and migrated |
 | Warehouse execution services | b3Ɛq Core WMS today, subject to its approved domain contract |
-| Cross-network logistics experience, visibility, coordination and governed autonomy | b3Ɛq ALOS™ |
+| Cross-network logistics experience, visibility, coordination and governed autonomy | b3Ɛq::ALOS™ |
 | Workflow orchestration | n8n |
 | Cross-platform record synchronization | b3Ɛq TaskBridge™ where explicit mappings are required |
 
